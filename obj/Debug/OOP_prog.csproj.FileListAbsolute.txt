@@ -1,0 +1,15 @@
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\bin\Debug\OOP_prog.exe.config
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\bin\Debug\OOP_prog.exe
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\bin\Debug\OOP_prog.pdb
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.csproj.AssemblyReference.cache
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.Form1.resources
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.Properties.Resources.resources
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.csproj.GenerateResource.cache
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.csproj.CoreCompileInputs.cache
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.exe
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.pdb
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.Form2.resources
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.Form3.resources
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.Form4.resources
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.Form5.resources
+C:\Users\Orester\OneDrive\Робочий стіл\studio projects\OOP_prog\obj\Debug\OOP_prog.Form6.resources
